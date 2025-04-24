@@ -6,6 +6,8 @@
 
 项目[说明文档](https://gitea.whlug.cn/LoongFly/LoongFly): https://gitea.whlug.cn/LoongFly/LoongFly
 
+如您有多余的龙架构主机、板卡或相关配件，欢迎您为社区进行捐赠，捐赠方法可查看[捐赠流程](./捐赠流程.md)
+
 ## 数据记录说明 
 
 必填项:  
